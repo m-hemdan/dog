@@ -13,3 +13,6 @@ func WhenGrownUp(s string) string {
 func WhenGrownUpss(s string) string {
 	return "When the puppy grows up it says: lowercase lowercase " + strings.ToLower(s)
 }
+func WhenGrownUpsss(s string) string {
+	return "When the puppy grows up it says: lowercase lowercase lowercase " + strings.ToLower(s)
+}
